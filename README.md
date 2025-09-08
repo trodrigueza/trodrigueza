@@ -1,4 +1,4 @@
-Hi! I'm Tomas, a CS student. 
+Hi! I'm Tomas, a CS student at [UNAL](https://en.wikipedia.org/wiki/National_University_of_Colombia). 
 
 - I’m currently working as a data analyst intern at [Seguros Bolívar](https://www.linkedin.com/company/seguros-bolivar/?originalSubdomain=co).
 - I have done academic projects mainly in `Python`, `Julia` and `C++` (Graphs, ML, MCMC, Heuristics, ...).
